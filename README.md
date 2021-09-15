@@ -14,12 +14,12 @@ I’m a Full Stack Developer and a hobbyist freelancer.
 <p>
     <a align= "center" href="https://github.com/invinciblezeal">
         <img alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=InvincibleZeal&theme=radical">
-        <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/338126/screenshots/14926319/media/20b64b8c929f2cad121aae5f0d02e08c.gif" /> 
+        <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/6edb22bb93ec5b8256156cc2755e3cec.gif" /> 
     </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=invinciblezeal&count_private=true&theme=radical&show_icons=true" />
 
-<p style="display:flex; align-items: center;"> 
+<p align="center"> 
     💸 Have a freelance work. Hire me on  &nbsp;
     <a href="https://www.upwork.com/freelancers/~01edf3ad347c6391cd" target="_blank">
         <img alt="Upwork" src="https://img.shields.io/static/v1?label=&message=Upwork&style=for-the-badge&color=brightgreen&logo=upwork&logoColor=white" />
