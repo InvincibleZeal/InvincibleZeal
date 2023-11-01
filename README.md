@@ -1,40 +1,31 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Ritesh Ganjewala</h1>
-<h5 align="center">
-I’m a Full Stack Developer and a hobbyist freelancer. 
-</h5>
-<p align="center">
-    I am also interested in Mobile App Development, Penetration Testing, OpenCV and many more things
-</p>
-<p align="left"> 
+<h1 align="center">Hi 
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+    alt="Waving hand animated gif" height="45" width="45" />
+  , I'm Ritesh Ganjewala
+</h1>
+
+<p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=invinciblezeal&label=Profile%20views&color=brightgreen&style=flat" alt="invinciblezeal" /> 
 </p>
-<p>
-    <a align= "center" href="https://github.com/invinciblezeal">
-        <img alt= "stats card" height="200px" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=InvincibleZeal&theme=radical">
-        <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/media/6edb22bb93ec5b8256156cc2755e3cec.gif" /> 
-    </a>
-</p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=invinciblezeal&count_private=true&theme=radical&show_icons=true" />
 
-<br><br>
+### About Me
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/riteshganjewala" target="_blank"><img alt="LinkedIn"
-                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:ritesh.ganjewala17@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-        <a href="https://medium.com/@invinciblezeal" target="_blank"><img alt="Medium"
-                src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-        <a href="https://twitter.com/_ganjewala_"><img alt="Twitter"
-                src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
+- Senior Frontend Engineer at Razorpay and a full-stack developer.
+- A hobbyist freelancer, constantly exploring tech trends and connecting with the global tech community.
+- Skills? React, Node.js, Python, Golang, and a little bit of Flutter.
 
-<hr>
+### Fun Facts
+- I use python for programming.
+- I'm a fitness enthusiast who is always up for a delicious meal.
 
-<p align="center">
-  <img src="https://github.com/InvincibleZeal/InvincibleZeal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
+<div>
+  <h3 align="center"> Connect with me </h3>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/42371840/279624872-2e1ad944-2498-4395-8668-a7cac28fe07b.png" href="https://www.linkedin.com/in/riteshganjewala/" />
+    <img src="https://user-images.githubusercontent.com/42371840/279624865-5ccabc49-bc5a-4440-bde3-5ab284dc3675.png" href="https://twitter.com/_ganjewala_" />
+    <img src="https://user-images.githubusercontent.com/42371840/279624873-cf4bcc6c-3cf6-4d8f-984c-92db6c85566e.png" href="https://medium.com/@InvincibleZeal" />
+    <hr />
+    <img src="https://github.com/InvincibleZeal/InvincibleZeal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  </p>
+</div>
