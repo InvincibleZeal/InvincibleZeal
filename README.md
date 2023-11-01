@@ -1,8 +1,4 @@
-<h1 align="center">Hi 
-  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-    alt="Waving hand animated gif" height="45" width="45" />
-  , I'm Ritesh Ganjewala
-</h1>
+<h2 align="center">Hi 👋, I'm Ritesh Ganjewala</h2>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=invinciblezeal&label=Profile%20views&color=brightgreen&style=flat" alt="invinciblezeal" /> 
